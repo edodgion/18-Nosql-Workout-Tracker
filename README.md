@@ -33,9 +33,9 @@ Morgan
 
 
 # Screen Shots
-![](Develop\assets\images\index.jpg)
-![](Develop\assets\images\exercise2.jpg)
-![](Develop\assets\images\graph.jpg)
+![](images/index.jpg)
+![](images/exercise2.jpg)
+![](images/graph.jpg)
  
 
 # Credit
