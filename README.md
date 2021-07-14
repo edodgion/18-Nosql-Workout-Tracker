@@ -1,15 +1,14 @@
 # 18-Nosql-Workout-Tracker
-# User Story
-```
-AS A user, I want to be able to view create and track daily workouts.
-I WANT to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise.  If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
-```
+
+## Summary
+
+This is a fitness app that allows you to log and track all the exercises you've preformed in a day.  It also tracks whether or not it's resistance or cardio. The type, name, distance travelled, time, weight, sets and reps of your exercise. It also includes a dashboard where you can track your fitness thoughtout the week visually via Pounds graph and Duration in Minutes graph.
 
 
 # Table of Contents
 
-- [User Story](#user-story)
+- [Summary](#summary)
 - [Installation](#installation)
 - [Deployed Link](#deployed-link)
 - [Screen Shots](#screen-shots)
@@ -29,8 +28,9 @@ Morgan
 ```
 # Deployed Link
 
-## [Fitness Tracker App]()
-- 
+## [Fitness Tracker App](https://dry-hollows-94548.herokuapp.com/?id=60ef48ff750327001580d3d0)
+
+- https://dry-hollows-94548.herokuapp.com/?id=60ef48ff750327001580d3d0
 
 
 # Screen Shots
